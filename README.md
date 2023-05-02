@@ -9,9 +9,10 @@ The application offers the following features:
 The ability to search for specific standards by name or acronym.
 A comprehensive list of modern day cybersecurity standards and regulations.
 A user-friendly interface that makes it easy to navigate through the different standards and regulations.
-Usage
 
-## To use the application, follow these steps:
+## Usage
+
+To use the application, follow these steps:
 
 Clone the repository.
 Install the required Python packages (e.g., pandas).
