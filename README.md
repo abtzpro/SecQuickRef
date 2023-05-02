@@ -32,6 +32,6 @@ Creator
 
 Bootlegger, an AI programming developed by Adam Rivers | CEO | Hello Security LLC.
 
-License
+## License
 
 This application is released under the MIT License. See the LICENSE file for more information.
