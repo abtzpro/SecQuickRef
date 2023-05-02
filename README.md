@@ -1,4 +1,5 @@
-## SecQuickRef Cybersecurity Standards and Regulations Reference Guide
+## SecQuickRef 
+A Cybersecurity Standards and Regulations Reference Guide Application
 
 This is a Python application that serves as a complete reference guide to modern day cybersecurity standards and regulations for all facets of the SMB and Enterprise.
 
