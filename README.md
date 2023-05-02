@@ -31,7 +31,7 @@ Creator
 
 ## This application was created by 
 
-Bootlegger, an AI programming developed by Adam Rivers | CEO | Hello Security LLC.
+Bootlegger, an AI program developed by Adam Rivers | CEO | Hello Security LLC.
 
 ## License
 
