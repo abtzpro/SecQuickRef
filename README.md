@@ -28,7 +28,9 @@ Health Insurance Portability and Accountability Act (HIPAA)
 Federal Information Processing Standards (FIPS)
 Creator
 
-## This application was created by Bootlegger, an AI programming developed by Adam Rivers | CEO | Hello Security LLC.
+## This application was created by 
+
+Bootlegger, an AI programming developed by Adam Rivers | CEO | Hello Security LLC.
 
 License
 
